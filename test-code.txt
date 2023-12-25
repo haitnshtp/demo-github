@@ -1,1 +1,11 @@
 Hello World Haitn
+//Tao 1 project tren github
+ 1. Tao 1 github repository (folder) - noi chua code
+ 2. Clone project: git clone link_your_repo
+ 3. Viet code
+ 	git status (kiem tra trang thai)
+	git add . (them file)
+	git commit -m "noi_dung_commit" (tao noi dung commit)
+	git push origin main
+//Tao project local va push len github
+ 1. 
